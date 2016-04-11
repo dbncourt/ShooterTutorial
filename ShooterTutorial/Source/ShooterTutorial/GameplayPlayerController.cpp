@@ -79,7 +79,7 @@ float AGameplayPlayerController::GetSensitivity(EControllingDevice WhichDevice, 
 				}
 		}
 	}
-
+	
 	return LocalSensitivity;
 }
 
